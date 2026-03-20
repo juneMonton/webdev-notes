@@ -39,16 +39,16 @@ How computers work; Using common tools and writing custom ones in multiple langu
 ## Sprint 1
   ### Prep
   Learning objectives
-  - [ ] Convert signed and unsigned numbers between any two of: binary, decimal, hexadecimal
-  - [ ] Identify whether a binary number is a power of two
-  - [ ] Explain the similarities and differences between binary, decimal, and hexadecimal numbers
-  - [ ] Explain why we use binary numbers
-  - [ ] Explain why we use hexadecimal numbers
-  - [ ] Describe how different programs can interpret the same bytes as different data
-  - [ ] Identify how many bits are needed to store integers up to some limit
-  - [ ] Identify the maximum integer that can be stored in a number of bits
-  - [ ] Add together two binary numbers without converting to decimal
-  - [ ] Identify which of two binary numbers is larger without converting to decimal
+  - [x] Convert signed and unsigned numbers between any two of: binary, decimal, hexadecimal
+  - [x] Identify whether a binary number is a power of two
+  - [x] Explain the similarities and differences between binary, decimal, and hexadecimal numbers
+  - [x] Explain why we use binary numbers
+  - [x] Explain why we use hexadecimal numbers
+  - [x] Describe how different programs can interpret the same bytes as different data
+  - [x] Identify how many bits are needed to store integers up to some limit
+  - [x] Identify the maximum integer that can be stored in a number of bits
+  - [x] Add together two binary numbers without converting to decimal
+  - [x] Identify which of two binary numbers is larger without converting to decimal
 
 
 
