@@ -55,6 +55,13 @@ How computers work; Using common tools and writing custom ones in multiple langu
   
   ### Backlog
   ### Day Plan
+  `git log` - shows all the logs, author, and date when the log happens\
+  `grep '^Author:'` - Filters the output, keeping only lines that start with Author:. You end up with lines\
+  `git log | grep '^Author:' | sed 's/^Author: //' | sed 's/ <.*$//' | sort | uniq | wc -l` - this counts all the Author
+
+  `nano myscript-june.sh`-saving script templates
+  
+  
   ### End of Sprint Review
 
 
