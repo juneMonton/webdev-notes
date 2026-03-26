@@ -67,6 +67,17 @@ How computers work; Using common tools and writing custom ones in multiple langu
 
 ## Sprint 2
   ### Prep
+  Learning objectives
+  - [x] Define the term variable
+        A variable is a named storage location in memory
+        Variables allow programmers to give a name to a memory address
+           
+  - [ ] Describe how a variable relates to a memory location
+        
+  - [ ] Give 3 examples of common operators
+  - [ ] Define && (and), || (or), and !(not) operators
+  - [ ] Explain what happens when you call a function
+  
   ### Backlog
   ### Day Plan
   ### End of Sprint Review
