@@ -80,6 +80,8 @@ How computers work; Using common tools and writing custom ones in multiple langu
   
   ### Backlog
   ### Day Plan
+  Review about Variables, Classes, and Objects
+
   ### End of Sprint Review
 
 
